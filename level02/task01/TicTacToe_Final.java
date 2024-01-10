@@ -2,7 +2,7 @@ package task01;
 
 import java.util.*;
 
-public class TicTacToe {
+public class TicTacToe_Final {
 
     static ArrayList<Integer> playerPositions = new ArrayList<>();
     static ArrayList<Integer> cpuPositions = new ArrayList<>();
